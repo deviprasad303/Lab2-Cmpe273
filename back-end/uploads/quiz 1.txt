@@ -1,0 +1,14 @@
+List two major reasons to moving to cloud computing
+
+1. Flexibility
+Cloud based services are ideal for business with growing bandwidths
+ – it’s not surprising that CIOs and IT Directors rank ‘operational agility’ as a top driver for cloud adoption.
+
+ 
+
+Disaster recovery:
+
+
+ 
+
+- List two major differences between SaaS and PaaS
